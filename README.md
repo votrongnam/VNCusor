@@ -14,7 +14,11 @@ Biến con trỏ chuột nhàm chán của bạn thành một công cụ trình 
 </div>
 
 ---
-
+## 👑 Credit & Bản quyền
+- **Author / Tác giả gốc:** Võ Trọng Nam
+- **Phiên bản:** V1.1 (Internal)
+- **Lưu ý:** *Dự án mã nguồn mở lưu hành nội bộ. Bất kỳ ai muốn đóng góp, chỉnh sửa hoặc phát triển thêm đều được hoan nghênh, nhưng **bắt buộc phải giữ lại tên tác giả gốc (Võ Trọng Nam)** trong mã nguồn và thông tin phần mềm.*
+---
 ## 🚀 Tính năng nổi bật
 
 - 🔦 **Spotlight & Focus:** Rọi sáng điểm chuột, làm tối nền xung quanh giúp người xem tập trung tối đa vào vị trí bạn muốn nhấn mạnh.
