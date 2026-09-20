@@ -8,7 +8,7 @@
 
 Biến con trỏ chuột nhàm chán của bạn thành một công cụ trình diễn chuyên nghiệp! **VNCusor** là phần mềm hạng nhẹ giúp làm nổi bật thao tác chuột, hiển thị phím tắt trên màn hình và cung cấp hàng loạt hiệu ứng thị giác đỉnh cao mang âm hưởng Cyberpunk.
 
-*(Chèn một tấm ảnh GIF hoặc Screenshot tool của mày vào đây để demo)*
+<img src="https://ibb.co/NnV78WqR">
 
 </div>
 
